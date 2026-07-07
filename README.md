@@ -1,4 +1,4 @@
-# Atividade Avaliativa II - Recuperação Prática
+# Recuperação Avaliativa II - Recuperação Prática
 
 - **Curso:** Desenvolvimento de Sistemas
 - **Unidade Curricular:** Lógica de Programação
